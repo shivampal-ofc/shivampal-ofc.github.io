@@ -52,6 +52,8 @@ This project is built using semantic, standard web technologies to ensure longev
 ```bash
 /
 ├── index.html       # Main content and markup
+├── style.css        # Styling and Theme definitions
+├── script.js        # Logic for Theme Toggling
 └── README.md        # Project documentation
 ```
 
